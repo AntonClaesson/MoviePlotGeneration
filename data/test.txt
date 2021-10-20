@@ -1,0 +1,1000 @@
+<BOS> <drama> <romantic drama> <romance film> <action> Days of Thunder <SEP> 
+<BOS> <romance film> Krishnagudiyil Oru Pranayakalathu <SEP> 
+<BOS> <drama> <comedy> <romance film> Annie Hall <SEP> 
+<BOS> <romance film> <comedy> <indie> Mighty Aphrodite <SEP> 
+<BOS> <thriller> <crime fiction> Phone Booth <SEP> 
+<BOS> <romantic drama> <romance film> <drama> Anna Lucasta <SEP> 
+<BOS> <drama> <comedy> Meet Me Tonight <SEP> 
+<BOS> <thriller> <short film> The Cat Piano <SEP> 
+<BOS> <short film> <family film> Hare-Abian Nights <SEP> 
+<BOS> <drama> Distant Thunder <SEP> 
+<BOS> <drama> <comedy> Lange Flate Ballær 2 <SEP> 
+<BOS> <comedy> A Mighty Wind <SEP> 
+<BOS> <crime fiction> <comedy> <romance film> How to Steal a Million <SEP> 
+<BOS> <thriller> <horror> <drama> Edgar Allan Poe's Murders in the Rue Morgue <SEP> 
+<BOS> <drama> <world cinema> Master Harold...and the Boys <SEP> 
+<BOS> <crime fiction> Hell to Pay <SEP> 
+<BOS> <drama> So Long, Stooge <SEP> 
+<BOS> <romance film> The Desert Song <SEP> 
+<BOS> <drama> This Boy's Life <SEP> 
+<BOS> <short film> <indie> Color Me Olsen <SEP> 
+<BOS> <thriller> <crime fiction> <horror> <indie> Alice Sweet Alice <SEP> 
+<BOS> <thriller> Sightseers <SEP> 
+<BOS> <romance film> <action> <comedy> This Means War <SEP> 
+<BOS> <drama> <comedy> Hating Kapatid <SEP> 
+<BOS> <family film> Once upon a Halloween <SEP> 
+<BOS> <crime fiction> <romantic drama> <romance film> <drama> Until They Sail <SEP> 
+<BOS> <thriller> <crime fiction> <horror> <world cinema> <comedy> The Quiet Family <SEP> 
+<BOS> <thriller> Someone's Watching Me <SEP> 
+<BOS> <action/adventure> Red Canvas <SEP> 
+<BOS> <drama> Drop Squad <SEP> 
+<BOS> <horror> Gorgo <SEP> 
+<BOS> <family film> <action> <adventure> The Jensen Project <SEP> 
+<BOS> <action> <adventure> <black-and-white> The Secret of Treasure Island <SEP> 
+<BOS> <comedy> California Dreaming <SEP> 
+<BOS> <crime fiction> <comedy> <black-and-white> I've Got Your Number <SEP> 
+<BOS> <crime fiction> <short film> <comedy> <black-and-white> Vacation in Reno <SEP> 
+<BOS> <thriller> <crime fiction> <action/adventure> <action> Marker <SEP> 
+<BOS> <romance film> <drama> <comedy> Wake up Sid <SEP> 
+<BOS> <romance film> Meet Me in St. Louis <SEP> 
+<BOS> <comedy> Eva Fools Around <SEP> 
+<BOS> <thriller> Soul Survivors <SEP> 
+<BOS> <crime fiction> Kaun? Kaisey? <SEP> 
+<BOS> <romance film> <comedy> No Eres Tu, Soy Yo <SEP> 
+<BOS> <drama> <black-and-white> Foolish Wives <SEP> 
+<BOS> <black-and-white> The Saint in New York <SEP> 
+<BOS> <romance film> <comedy> <black-and-white> Teacher's Pet <SEP> 
+<BOS> <horror> Aakasha Ganga <SEP> 
+<BOS> <drama> The Fall of the Roman Empire <SEP> 
+<BOS> <drama> The Hitler Gang <SEP> 
+<BOS> <romance film> <drama> Ajnabee <SEP> 
+<BOS> <drama> <world cinema> Iska's Journey <SEP> 
+<BOS> <thriller> <romance film> Dream Girl <SEP> 
+<BOS> <action> Dheena <SEP> 
+<BOS> <family film> <action> <drama> Prema Tarangalu <SEP> 
+<BOS> <family film> Battle for Terra <SEP> 
+<BOS> <thriller> Ma fille mon ange <SEP> 
+<BOS> <drama> <black-and-white> Así es la vida <SEP> 
+<BOS> <thriller> <drama> Night Eyes 4: Fatal Passion <SEP> 
+<BOS> <thriller> <romance film> <action> <drama> Chandrolsavam <SEP> 
+<BOS> <drama> Modati Cinema <SEP> 
+<BOS> <world cinema> <action/adventure> <drama> <romantic drama> <romance film> <action> Keemat: They Are Back <SEP> 
+<BOS> <drama> Gaja Gamini <SEP> 
+<BOS> <romance film> <drama> Thunder in the City <SEP> 
+<BOS> <romance film> <comedy> Fair Game <SEP> 
+<BOS> <drama> Escape from East Berlin <SEP> 
+<BOS> <drama> Balipeetam <SEP> 
+<BOS> <drama> <black-and-white> Circe, the Enchantress <SEP> 
+<BOS> <thriller> <indie> <romance film> <action> Title to Murder <SEP> 
+<BOS> <horror> <world cinema> The Brainiac <SEP> 
+<BOS> <crime fiction> <action/adventure> <drama> <action> The Newton Boys <SEP> 
+<BOS> <short film> <family film> Noël Noël <SEP> 
+<BOS> <comedy> <romance film> Thoroughly Modern Millie <SEP> 
+<BOS> <romantic drama> <romance film> <drama> <world cinema> Kyun...! Ho Gaya Na <SEP> 
+<BOS> <crime fiction> <indie> <romance film> Miss Nobody <SEP> 
+<BOS> <black-and-white> Oh Mong-nyeo <SEP> 
+<BOS> <crime fiction> <thriller> <horror> <drama> Seance on a Wet Afternoon <SEP> 
+<BOS> <short film> Mickey's Northwest Mounted <SEP> 
+<BOS> <thriller> Vaadamalli <SEP> 
+<BOS> <crime fiction> <world cinema> <drama> Cyclo <SEP> 
+<BOS> <thriller> Aku no Kyoten <SEP> 
+<BOS> <indie> Berlin: Symphony of a Great City <SEP> 
+<BOS> <family film> <comedy> Mr. Nanny <SEP> 
+<BOS> <short film> <drama> Little Terrorist <SEP> 
+<BOS> <thriller> <crime fiction> <drama> Before and After <SEP> 
+<BOS> <short film> <family film> <comedy> Angel Puss <SEP> 
+<BOS> <drama> The City of Your Final Destination <SEP> 
+<BOS> <thriller> <crime fiction> <drama> <comedy> <action> The Business <SEP> 
+<BOS> <indie> <comedy> Die Mommie Die! <SEP> 
+<BOS> <romantic drama> <drama> <romance film> Loving You <SEP> 
+<BOS> <drama> Joey <SEP> 
+<BOS> <adventure> <comedy> Vegas In Space <SEP> 
+<BOS> <adventure> <drama> <comedy> <family film> Anastasia <SEP> 
+<BOS> <drama> <family film> Letters to God <SEP> 
+<BOS> <adventure> Splendid Fellows <SEP> 
+<BOS> <comedy> <black-and-white> The Naked Truth <SEP> 
+<BOS> <family film> Snow White <SEP> 
+<BOS> <family film> Ilzaam <SEP> 
+<BOS> <horror> Horrors of the Black Museum <SEP> 
+<BOS> <thriller> <horror> The Midnight Game <SEP> 
+<BOS> <adventure> <comedy> <drama> <family film> Bedknobs and Broomsticks <SEP> 
+<BOS> <black-and-white> <drama> <romantic drama> <romance film> Anna Karenina <SEP> 
+<BOS> <indie> <comedy> <drama> Empire Records <SEP> 
+<BOS> <drama> <black-and-white> Hangmen Also Die <SEP> 
+<BOS> <romance film> Manam Kothi Paravai <SEP> 
+<BOS> <drama> <romantic drama> <romance film> Their Eyes Were Watching God <SEP> 
+<BOS> <thriller> <black-and-white> <drama> The Adventures of Sherlock Holmes <SEP> 
+<BOS> <action> <adventure> <black-and-white> Manhunt of Mystery Island <SEP> 
+<BOS> <drama> <comedy> The Crazy World of Julius Vrooder <SEP> 
+<BOS> <drama> Black Dogs Barking <SEP> 
+<BOS> <romantic drama> That Dangerous Age <SEP> 
+<BOS> <drama> <romantic drama> <romance film> <black-and-white> The Private Life of Don Juan <SEP> 
+<BOS> <short film> A Terrible Night <SEP> 
+<BOS> <drama> Les Anges de Satan <SEP> 
+<BOS> <romance film> <comedy> Win a Date with Tad Hamilton! <SEP> 
+<BOS> <thriller> <horror> <black-and-white> The Corpse Vanishes <SEP> 
+<BOS> <drama> Keshu <SEP> 
+<BOS> <thriller> <action/adventure> <horror> <action> Ghost Rider: Spirit of Vengeance <SEP> 
+<BOS> <drama> The Mark of Cain <SEP> 
+<BOS> <thriller> <crime fiction> <adventure> <drama> <action> Repo Men <SEP> 
+<BOS> <action/adventure> <drama> <world cinema> The Touch <SEP> 
+<BOS> <horror> Cannibal Terror <SEP> 
+<BOS> <thriller> <crime fiction> <drama> <action> Vantage Point <SEP> 
+<BOS> <action> <indie> <adventure> <comedy> The Weathered Underground <SEP> 
+<BOS> <horror> <world cinema> Island of Mutations <SEP> 
+<BOS> <adventure> <drama> <action> Goemon <SEP> 
+<BOS> <thriller> <adventure> Deathlands: Homeward Bound <SEP> 
+<BOS> <action> <drama> City of Fathers <SEP> 
+<BOS> <thriller> <comedy> What a Carve Up! <SEP> 
+<BOS> <drama> <world cinema> Medea <SEP> 
+<BOS> <horror> <comedy> Troublesome Night 7 <SEP> 
+<BOS> <drama> <comedy> <indie> Kabluey <SEP> 
+<BOS> <drama> <world cinema> The Servant <SEP> 
+<BOS> <comedy> The Watch <SEP> 
+<BOS> <indie> <world cinema> <drama> <comedy> <romantic drama> <romance film> Sirens <SEP> 
+<BOS> <crime fiction> <thriller> <world cinema> <drama> Memories of Murder <SEP> 
+<BOS> <thriller> <short film> <action/adventure> <drama> <action> Knock Off <SEP> 
+<BOS> <action/adventure> <world cinema> Yudh <SEP> 
+<BOS> <crime fiction> <drama> Girls in Prison <SEP> 
+<BOS> <action> <drama> <world cinema> Marte Dam Tak <SEP> 
+<BOS> <short film> The House I Live In <SEP> 
+<BOS> <action/adventure> <thriller> <action> <horror> <adventure> Stake Land <SEP> 
+<BOS> <short film> <indie> <black-and-white> Just Rambling Along <SEP> 
+<BOS> <romance film> <family film> Lal Patthar <SEP> 
+<BOS> <action/adventure> <drama> <world cinema> The Last Lieutenant <SEP> 
+<BOS> <drama> <indie> Black Cloud <SEP> 
+<BOS> <drama> The Colditz Story <SEP> 
+<BOS> <horror> Deep Blood <SEP> 
+<BOS> <short film> Two Men and a Wardrobe <SEP> 
+<BOS> <drama> <world cinema> <black-and-white> Macario <SEP> 
+<BOS> <drama> Paduka Pattabhishekam <SEP> 
+<BOS> <short film> Video Days <SEP> 
+<BOS> <comedy> The Bullfighters <SEP> 
+<BOS> <crime fiction> <thriller> <action> Wanted <SEP> 
+<BOS> <drama> <romance film> <action> Rocky <SEP> 
+<BOS> <romance film> <comedy> Junior <SEP> 
+<BOS> <drama> Nora Prentiss <SEP> 
+<BOS> <short film> <family film> The Pied Piper <SEP> 
+<BOS> <drama> <comedy> <world cinema> The Illiterate One <SEP> 
+<BOS> <thriller> <horror> Phase One <SEP> 
+<BOS> <drama> Casta diva <SEP> 
+<BOS> <indie> <drama> <comedy> Finding North <SEP> 
+<BOS> <horror> Mindripper <SEP> 
+<BOS> <short film> <indie> <comedy> Alice's spooky adventure <SEP> 
+<BOS> <thriller> <drama> Thachiledathu Chundan <SEP> 
+<BOS> <comedy> Dumkata <SEP> 
+<BOS> <action/adventure> <drama> <world cinema> The Sundowners <SEP> 
+<BOS> <drama> The Foundling <SEP> 
+<BOS> <comedy> The Honeymooners <SEP> 
+<BOS> <short film> <family film> <comedy> Porky & Daffy <SEP> 
+<BOS> <comedy> Club Paradise <SEP> 
+<BOS> <short film> <horror> <indie> Eel Girl <SEP> 
+<BOS> <drama> <romantic drama> <family film> <romance film> Little Women <SEP> 
+<BOS> <action> Marrying the Mafia IV <SEP> 
+<BOS> <black-and-white> Little Big Shot <SEP> 
+<BOS> <romance film> <drama> Shalini Ente Koottukari <SEP> 
+<BOS> <adventure> <world cinema> <comedy> <romance film> <action> Endhiran <SEP> 
+<BOS> <crime fiction> <drama> <indie> The Beatniks <SEP> 
+<BOS> <family film> Imaginum <SEP> 
+<BOS> <drama> Kutty <SEP> 
+<BOS> <drama> The Stars Fell on Henrietta <SEP> 
+<BOS> <short film> Jungle Jingles <SEP> 
+<BOS> <thriller> <drama> Nightlight <SEP> 
+<BOS> <crime fiction> <comedy> Sidewalks of New York <SEP> 
+<BOS> <drama> <world cinema> Do Ankhen Barah Haath <SEP> 
+<BOS> <adventure> Sharpe's Honour <SEP> 
+<BOS> <short film> Snow Time <SEP> 
+<BOS> <drama> Maayajaalam <SEP> 
+<BOS> <crime fiction> <drama> <comedy> Une belle fille comme moi <SEP> 
+<BOS> <thriller> 5ive Days to Midnight <SEP> 
+<BOS> <action> Taqdeer Ka Badshah <SEP> 
+<BOS> <thriller> <world cinema> <action/adventure> <action> The King of Fighters <SEP> 
+<BOS> <drama> <indie> To Save a Life <SEP> 
+<BOS> <adventure> <black-and-white> <action/adventure> <romantic drama> <romance film> <action> Fighting Caravans <SEP> 
+<BOS> <action/adventure> <action> Run for Cover <SEP> 
+<BOS> <drama> <adventure> The Yankee Clipper <SEP> 
+<BOS> <adventure> <drama> <action> The Lord of the Rings: The Fellowship of the Ring <SEP> 
+<BOS> <action/adventure> <action> <drama> <world cinema> Man Hunt <SEP> 
+<BOS> <romance film> The Comeback Kid <SEP> 
+<BOS> <drama> <world cinema> The Lower Depths <SEP> 
+<BOS> <short film> <comedy> <black-and-white> Grips, Grunts and Groans <SEP> 
+<BOS> <romantic drama> <romance film> <drama> <world cinema> Tim <SEP> 
+<BOS> <world cinema> <drama> Go, Go Second Time Virgin <SEP> 
+<BOS> <romance film> Soggadu <SEP> 
+<BOS> <adventure> <drama> <family film> Bridge to Terabithia <SEP> 
+<BOS> <adventure> <action/adventure> <drama> <action> Master and Commander: The Far Side of the World <SEP> 
+<BOS> <drama> <world cinema> Adrift <SEP> 
+<BOS> <drama> <comedy> While Telling a Story <SEP> 
+<BOS> <drama> <comedy> The Longest Yard <SEP> 
+<BOS> <horror> Count Dracula <SEP> 
+<BOS> <black-and-white> <action/adventure> <drama> <romantic drama> <romance film> <action> Titanic <SEP> 
+<BOS> <short film> Night of the Living Bread <SEP> 
+<BOS> <drama> <black-and-white> Surrender <SEP> 
+<BOS> <family film> Barbie and the Diamond Castle <SEP> 
+<BOS> <horror> I, Monster <SEP> 
+<BOS> <action> The Blade Spares None <SEP> 
+<BOS> <drama> Divinas palabras <SEP> 
+<BOS> <drama> Punch and Jody <SEP> 
+<BOS> <drama> Vidheyan <SEP> 
+<BOS> <thriller> Who Is Running? <SEP> 
+<BOS> <crime fiction> <romance film> <drama> <black-and-white> Madonna of the Seven Moons <SEP> 
+<BOS> <crime fiction> Crossroads to Crime <SEP> 
+<BOS> <thriller> <black-and-white> <drama> <romance film> Spellbound <SEP> 
+<BOS> <indie> <drama> <romantic drama> <romance film> Pollock <SEP> 
+<BOS> <black-and-white> <comedy> <romance film> Platinum Blonde <SEP> 
+<BOS> <comedy> The Marathon Family <SEP> 
+<BOS> <romance film> <comedy> Book of Love <SEP> 
+<BOS> <crime fiction> <thriller> <action/adventure> <drama> <action> Band of the Hand <SEP> 
+<BOS> <romance film> <comedy> The Heart of Men <SEP> 
+<BOS> <drama> Another Happy Day <SEP> 
+<BOS> <romance film> Jaanam <SEP> 
+<BOS> <adventure> <drama> <comedy> <family film> 101 Dalmatians <SEP> 
+<BOS> <drama> <horror> <world cinema> Valerie and Her Week of Wonders <SEP> 
+<BOS> <indie> <comedy> <drama> <romantic drama> <romance film> Wish You Were Here <SEP> 
+<BOS> <romance film> <drama> Jealousy is My Middle Name <SEP> 
+<BOS> <romance film> <comedy> Big Ain't Bad <SEP> 
+<BOS> <drama> Soundtrack <SEP> 
+<BOS> <romance film> <drama> The Wind Cannot Read <SEP> 
+<BOS> <thriller> <crime fiction> <horror> I Spit on Your Grave <SEP> 
+<BOS> <romance film> <family film> <comedy> Yours, Mine and Ours <SEP> 
+<BOS> <romance film> Ee Puzhayum Kadannu <SEP> 
+<BOS> <romance film> <comedy> <world cinema> Fighting for Love <SEP> 
+<BOS> <comedy> Weekend at Bernie's II <SEP> 
+<BOS> <thriller> Raktamukhi Neela <SEP> 
+<BOS> <short film> <family film> <comedy> A Broken Leghorn <SEP> 
+<BOS> <romance film> <drama> Parannu Parannu Parannu <SEP> 
+<BOS> <thriller> <romantic drama> <drama> Boom! <SEP> 
+<BOS> <drama> Serge Gainsbourg, vie héroïque <SEP> 
+<BOS> <drama> <comedy> Oh My God <SEP> 
+<BOS> <short film> Mickey's Mix-Up <SEP> 
+<BOS> <crime fiction> <action> <drama> The Glenrowan Affair <SEP> 
+<BOS> <drama> <black-and-white> The Mother and the Whore <SEP> 
+<BOS> <crime fiction> <drama> <world cinema> Au hasard Balthazar <SEP> 
+<BOS> <drama> Brothers <SEP> 
+<BOS> <action/adventure> The Legend of the Lone Ranger <SEP> 
+<BOS> <crime fiction> <drama> <comedy> <world cinema> Three: After life <SEP> 
+<BOS> <drama> <romance film> FAQs <SEP> 
+<BOS> <drama> <comedy> <action> Special Delivery <SEP> 
+<BOS> <thriller> <action> <comedy> Street Fighter <SEP> 
+<BOS> <horror> Patayin Mo Sa Sindak Si Barbara <SEP> 
+<BOS> <drama> Paradise Found <SEP> 
+<BOS> <comedy> Back by Midnight <SEP> 
+<BOS> <drama> <world cinema> Jab Pyaar Kisise Hota Hai <SEP> 
+<BOS> <thriller> <action> <adventure> Orion's Belt <SEP> 
+<BOS> <drama> <world cinema> Fanny and Alexander <SEP> 
+<BOS> <romantic drama> <romance film> <drama> Indecent Proposal <SEP> 
+<BOS> <indie> <drama> <comedy> <romantic drama> <romance film> Choose Me <SEP> 
+<BOS> <drama> <adventure> The Hunter <SEP> 
+<BOS> <comedy> Salvation! <SEP> 
+<BOS> <short film> <horror> <indie> <black-and-white> Le Manoir du diable <SEP> 
+<BOS> <drama> <world cinema> Mili <SEP> 
+<BOS> <indie> <black-and-white> <drama> The Last Command <SEP> 
+<BOS> <action/adventure> <horror> <world cinema> Encounters of the Spooky Kind <SEP> 
+<BOS> <romantic drama> <romance film> <drama> <world cinema> Madhoshi <SEP> 
+<BOS> <action> Frankenpimp <SEP> 
+<BOS> <thriller> <crime fiction> <action/adventure> <action> White Lightning <SEP> 
+<BOS> <thriller> <horror> In the Mouth of Madness <SEP> 
+<BOS> <drama> <black-and-white> Humoresque <SEP> 
+<BOS> <short film> <family film> People Are Bunny <SEP> 
+<BOS> <comedy> <indie> American cowslip <SEP> 
+<BOS> <thriller> <action> Yaar Gaddar <SEP> 
+<BOS> <drama> Nightbreaker <SEP> 
+<BOS> <thriller> <crime fiction> <world cinema> <action/adventure> <action> Heaven's Burning <SEP> 
+<BOS> <action> <horror> <indie> Slayer <SEP> 
+<BOS> <world cinema> <drama> Luther <SEP> 
+<BOS> <short film> Mickey's Big Game Hunt <SEP> 
+<BOS> <thriller> <action> <action/adventure> Second in Command <SEP> 
+<BOS> <romance film> <comedy> Yes, Giorgio <SEP> 
+<BOS> <thriller> <horror> <drama> Hannibal Rising <SEP> 
+<BOS> <drama> <family film> Khichdi: The Movie <SEP> 
+<BOS> <comedy> Pardesi Babu <SEP> 
+<BOS> <indie> <comedy> <romance film> American Friends <SEP> 
+<BOS> <crime fiction> <thriller> <drama> The Stranger Beside Me <SEP> 
+<BOS> <romantic drama> <romance film> <drama> In My Country <SEP> 
+<BOS> <action/adventure> <action> <drama> <world cinema> Taegukgi <SEP> 
+<BOS> <romance film> <drama> Lies of the Heart: The Story of Laurie Kellogg <SEP> 
+<BOS> <family film> <adventure> Arabian Nights <SEP> 
+<BOS> <drama> Gandhi <SEP> 
+<BOS> <drama> <comedy> London Belongs to Me <SEP> 
+<BOS> <crime fiction> <drama> A Fugitive from Justice <SEP> 
+<BOS> <thriller> <horror> Open Graves <SEP> 
+<BOS> <short film> The Astounding Talent of Mr. Grenade <SEP> 
+<BOS> <comedy> Narco <SEP> 
+<BOS> <romantic drama> <drama> The Boy in the Plastic Bubble <SEP> 
+<BOS> <drama> Pallikoodam <SEP> 
+<BOS> <world cinema> <drama> <comedy> <romantic drama> <romance film> Viva Cuba <SEP> 
+<BOS> <world cinema> <drama> Ang Lihim ni Antonio <SEP> 
+<BOS> <indie> <family film> <adventure> Biggles: Adventures in Time <SEP> 
+<BOS> <thriller> Postmortem <SEP> 
+<BOS> <drama> Two Thousand Women <SEP> 
+<BOS> <drama> <world cinema> Rishtey <SEP> 
+<BOS> <romantic drama> <romance film> <drama> <world cinema> Shahjahan <SEP> 
+<BOS> <drama> <indie> The Future <SEP> 
+<BOS> <crime fiction> <thriller> <indie> <drama> Into Temptation <SEP> 
+<BOS> <adventure> <action/adventure> <drama> Seven Years in Tibet <SEP> 
+<BOS> <horror> <indie> House on Haunted Hill <SEP> 
+<BOS> <thriller> Bad Day <SEP> 
+<BOS> <drama> Rickshawkaran <SEP> 
+<BOS> <short film> <family film> The Spy Swatter <SEP> 
+<BOS> <indie> <action/adventure> <comedy> <action> Sidekick <SEP> 
+<BOS> <horror> Curse of the Talisman <SEP> 
+<BOS> <thriller> <horror> <world cinema> <action/adventure> <action> Double Vision <SEP> 
+<BOS> <romantic drama> <drama> <romance film> Plenty <SEP> 
+<BOS> <drama> To Hell and Back <SEP> 
+<BOS> <drama> <comedy> My Name Is Juani <SEP> 
+<BOS> <horror> <comedy> <world cinema> ¡Vampiros en La Habana! <SEP> 
+<BOS> <short film> Crawlspace <SEP> 
+<BOS> <drama> Cathy's Child <SEP> 
+<BOS> <drama> <romance film> Adam & Eva <SEP> 
+<BOS> <romantic drama> <romance film> <drama> <comedy> Love & Debate <SEP> 
+<BOS> <horror> <black-and-white> The Mad Monster <SEP> 
+<BOS> <romantic drama> <romance film> <drama> <world cinema> The Trouble-Makers <SEP> 
+<BOS> <action/adventure> <comedy> 4 for Texas <SEP> 
+<BOS> <action/adventure> <action> <drama> The Purple Heart <SEP> 
+<BOS> <crime fiction> <drama> Painted Lady <SEP> 
+<BOS> <short film> <family film> Easter Yeggs <SEP> 
+<BOS> <thriller> <action> The Colonel <SEP> 
+<BOS> <thriller> <crime fiction> <drama> The Chamber <SEP> 
+<BOS> <drama> <world cinema> Caregiver <SEP> 
+<BOS> <drama> Battle of Moscow <SEP> 
+<BOS> <romantic drama> <drama> Gamyam <SEP> 
+<BOS> <adventure> <drama> <family film> <action> Sidekicks <SEP> 
+<BOS> <romantic drama> <romance film> <drama> Lambada <SEP> 
+<BOS> <drama> <indie> Shiner <SEP> 
+<BOS> <indie> <comedy> <adventure> Dean Spanley <SEP> 
+<BOS> <romance film> <comedy> <world cinema> Hero No. 1 <SEP> 
+<BOS> <world cinema> <drama> <comedy> Wait 'Til You're Older <SEP> 
+<BOS> <thriller> <drama> Dead Cert <SEP> 
+<BOS> <horror> <black-and-white> Dracula <SEP> 
+<BOS> <crime fiction> <thriller> <drama> <romance film> White Mischief <SEP> 
+<BOS> <horror> Ulli Lommel's Black Dahlia <SEP> 
+<BOS> <drama> <horror> Dr. Strange <SEP> 
+<BOS> <crime fiction> <drama> Portrait of a Mobster <SEP> 
+<BOS> <adventure> <black-and-white> Black Arrow <SEP> 
+<BOS> <drama> Tazza: The High Rollers <SEP> 
+<BOS> <world cinema> <drama> <comedy> My Life as a Dog <SEP> 
+<BOS> <drama> Land and Freedom <SEP> 
+<BOS> <drama> The Fat Man <SEP> 
+<BOS> <thriller> <horror> Tamara <SEP> 
+<BOS> <family film> <adventure> Misty Island Rescue <SEP> 
+<BOS> <drama> <black-and-white> Medal for the General <SEP> 
+<BOS> <drama> Avan <SEP> 
+<BOS> <crime fiction> <thriller> <black-and-white> <comedy> Charlie Chan at the Race Track <SEP> 
+<BOS> <drama> Branded <SEP> 
+<BOS> <drama> The Fireball <SEP> 
+<BOS> <thriller> <horror> <world cinema> <drama> <comedy> Cronos <SEP> 
+<BOS> <short film> <drama> Humanitaire! <SEP> 
+<BOS> <drama> Justice Gopinath <SEP> 
+<BOS> <drama> Vindhyarani <SEP> 
+<BOS> <world cinema> <drama> Glue <SEP> 
+<BOS> <adventure> <black-and-white> The Desert Hawk <SEP> 
+<BOS> <action/adventure> <crime fiction> <drama> Appaloosa <SEP> 
+<BOS> <thriller> <black-and-white> <drama> <action> Berlin Express <SEP> 
+<BOS> <crime fiction> <drama> Alias Mr. Twilight <SEP> 
+<BOS> <thriller> <action> C. I. Mahadevan 5 Adi 4 Inchu <SEP> 
+<BOS> <comedy> <black-and-white> The Big Store <SEP> 
+<BOS> <horror> <world cinema> Re-cycle <SEP> 
+<BOS> <action> <drama> Raj Tilak <SEP> 
+<BOS> <drama> Take the Lead <SEP> 
+<BOS> <action/adventure> <crime fiction> <action> <thriller> Direct Action <SEP> 
+<BOS> <thriller> <horror> <world cinema> What Have You Done to Solange? <SEP> 
+<BOS> <family film> <drama> A Christmas Carol <SEP> 
+<BOS> <crime fiction> <thriller> <drama> The Godfather Part III <SEP> 
+<BOS> <drama> <family film> Field of Dreams <SEP> 
+<BOS> <drama> <world cinema> Santo Luzbel <SEP> 
+<BOS> <crime fiction> <action/adventure> <comedy> <action> Roadhouse 66 <SEP> 
+<BOS> <drama> Bronco Bullfrog <SEP> 
+<BOS> <comedy> The Brady Bunch in the White House <SEP> 
+<BOS> <drama> <comedy> <romantic drama> <romance film> Love and Other Drugs <SEP> 
+<BOS> <romance film> Pyaar Diwana Hota Hai <SEP> 
+<BOS> <thriller> <drama> The Cry of the Owl <SEP> 
+<BOS> <drama> The Day of the Roses <SEP> 
+<BOS> <drama> Armin <SEP> 
+<BOS> <action/adventure> <thriller> <action> Pokémon: Zoroark: Master of Illusions <SEP> 
+<BOS> <drama> <comedy> The Beauty Jungle <SEP> 
+<BOS> <horror> <indie> American Gothic <SEP> 
+<BOS> <crime fiction> <drama> <comedy> The Money Trap <SEP> 
+<BOS> <black-and-white> <action/adventure> <comedy> <action> Dead Men Don't Wear Plaid <SEP> 
+<BOS> <indie> <world cinema> <drama> <comedy> <romance film> Starstruck <SEP> 
+<BOS> <adventure> PROXIMA <SEP> 
+<BOS> <black-and-white> The Gold Diggers <SEP> 
+<BOS> <family film> Piglet's Big Movie <SEP> 
+<BOS> <thriller> <action/adventure> <action> <drama> Apocalypse III: Tribulation <SEP> 
+<BOS> <indie> <drama> Coonskin <SEP> 
+<BOS> <romantic drama> <romance film> <drama> <indie> Particles of Truth <SEP> 
+<BOS> <action> Munna <SEP> 
+<BOS> <romance film> Gudgudee <SEP> 
+<BOS> <drama> Varavelpu <SEP> 
+<BOS> <drama> <black-and-white> Escape <SEP> 
+<BOS> <thriller> <horror> Susuk <SEP> 
+<BOS> <short film> <family film> <comedy> Training Pigeons <SEP> 
+<BOS> <drama> Djihad <SEP> 
+<BOS> <drama> Silent Lies <SEP> 
+<BOS> <thriller> <action/adventure> <action> The Sell-Out <SEP> 
+<BOS> <crime fiction> <thriller> <world cinema> <drama> <action> Bangkok Dangerous <SEP> 
+<BOS> <short film> <family film> Jerry-Go-Round <SEP> 
+<BOS> <short film> Old Glory <SEP> 
+<BOS> <thriller> <romance film> <drama> <indie> Eddie and the Cruisers II: Eddie Lives <SEP> 
+<BOS> <indie> <world cinema> <drama> <romantic drama> <romance film> <adventure> Japanese Story <SEP> 
+<BOS> <drama> <black-and-white> Los Caranchos de la Florida <SEP> 
+<BOS> <short film> <family film> Tom-ic Energy <SEP> 
+<BOS> <drama> <romance film> Medium Cool <SEP> 
+<BOS> <adventure> Sharpe's Company <SEP> 
+<BOS> <horror> The Mummy's Curse <SEP> 
+<BOS> <comedy> Is It College Yet? <SEP> 
+<BOS> <horror> Twice-Told Tales <SEP> 
+<BOS> <short film> Undercut <SEP> 
+<BOS> <thriller> <horror> The Faculty <SEP> 
+<BOS> <family film> <comedy> Like Father Like Son <SEP> 
+<BOS> <world cinema> <drama> <romantic drama> <romance film> For the First Time <SEP> 
+<BOS> <short film> Carne <SEP> 
+<BOS> <romance film> Miss Priyambada <SEP> 
+<BOS> <world cinema> <action/adventure> <comedy> <action> Drunken Master <SEP> 
+<BOS> <black-and-white> <drama> <comedy> A Canterbury Tale <SEP> 
+<BOS> <romance film> <drama> <world cinema> Aishite Imasu 1941: Mahal Kita <SEP> 
+<BOS> <family film> <adventure> Caravan of Courage: An Ewok Adventure <SEP> 
+<BOS> <thriller> <drama> The Assassination of Trotsky <SEP> 
+<BOS> <drama> Man on a Tightrope <SEP> 
+<BOS> <drama> <romance film> Victoria & Albert <SEP> 
+<BOS> <crime fiction> <comedy> <family film> The Flintstones <SEP> 
+<BOS> <thriller> <black-and-white> The Thirteenth Guest <SEP> 
+<BOS> <comedy> Carry On Doctor <SEP> 
+<BOS> <romantic drama> <romance film> <drama> Heartbeat <SEP> 
+<BOS> <crime fiction> <thriller> <world cinema> <drama> <action> Monga <SEP> 
+<BOS> <action> Lalkaar <SEP> 
+<BOS> <action/adventure> <action> <world cinema> The Leg Fighters <SEP> 
+<BOS> <thriller> <action/adventure> <drama> <action> Aftershock: Earthquake in New York <SEP> 
+<BOS> <thriller> <crime fiction> Dolan's Cadillac <SEP> 
+<BOS> <short film> <family film> Hamateur Night <SEP> 
+<BOS> <comedy> <romance film> Heart and Souls <SEP> 
+<BOS> <thriller> <drama> <comedy> The Hound of the Baskervilles <SEP> 
+<BOS> <adventure> <drama> <family film> The Black Stallion Returns <SEP> 
+<BOS> <thriller> <crime fiction> <drama> Man on Fire <SEP> 
+<BOS> <crime fiction> <action> <drama> Men Without Souls <SEP> 
+<BOS> <drama> La Femme de l'hôtel <SEP> 
+<BOS> <thriller> <drama> <indie> 96 Minutes <SEP> 
+<BOS> <thriller> <world cinema> Aamir <SEP> 
+<BOS> <thriller> <drama> White Nights <SEP> 
+<BOS> <romantic drama> <romance film> <action> <drama> <world cinema> Dharti <SEP> 
+<BOS> <action/adventure> <adventure> Hawk the Slayer <SEP> 
+<BOS> <drama> 2000 Weeks <SEP> 
+<BOS> <family film> <comedy> Snow 2: Brain Freeze <SEP> 
+<BOS> <drama> The Slingshot <SEP> 
+<BOS> <romantic drama> <romance film> <drama> <world cinema> Thirumalai <SEP> 
+<BOS> <adventure> Thumbelina <SEP> 
+<BOS> <thriller> <drama> Murk <SEP> 
+<BOS> <horror> Symptoms <SEP> 
+<BOS> <romance film> <comedy> <indie> Amy's Orgasm <SEP> 
+<BOS> <drama> <family film> The Hobbit <SEP> 
+<BOS> <family film> <romance film> Dr. Vidya <SEP> 
+<BOS> <thriller> <horror> The Mephisto Waltz <SEP> 
+<BOS> <crime fiction> <indie> <drama> L.I.E. <SEP> 
+<BOS> <world cinema> <drama> <comedy> Peepli Live <SEP> 
+<BOS> <comedy> <drama> Dorian Blues <SEP> 
+<BOS> <romance film> <horror> <comedy> Troublesome Night 14 <SEP> 
+<BOS> <crime fiction> The Great Riviera Bank Robbery <SEP> 
+<BOS> <thriller> <indie> <drama> <romantic drama> <romance film> Passion Play <SEP> 
+<BOS> <drama> <black-and-white> Ice-Cold in Alex <SEP> 
+<BOS> <drama> Cadavre Exquis première édition <SEP> 
+<BOS> <drama> <romantic drama> <romance film> The Passion of Ayn Rand <SEP> 
+<BOS> <romance film> <comedy> <black-and-white> You'll Never Get Rich <SEP> 
+<BOS> <adventure> <world cinema> <action/adventure> <drama> <romantic drama> <romance film> The Big Blue <SEP> 
+<BOS> <drama> <black-and-white> <world cinema> Paisà <SEP> 
+<BOS> <romance film> <comedy> The Truth About Cats & Dogs <SEP> 
+<BOS> <adventure> New Adventures of a Yankee in King Arthur's Court <SEP> 
+<BOS> <family film> Christmas Is Here Again <SEP> 
+<BOS> <drama> The Sea Ghost <SEP> 
+<BOS> <romance film> <drama> <comedy> Spread <SEP> 
+<BOS> <short film> Popeye the Sailor Meets Sindbad the Sailor <SEP> 
+<BOS> <crime fiction> <action/adventure> <comedy> <action> Bulletproof <SEP> 
+<BOS> <drama> The Fat Boy Chronicles <SEP> 
+<BOS> <adventure> <world cinema> <action/adventure> <comedy> <action> Crocodile Dundee <SEP> 
+<BOS> <horror> The Devil-Doll <SEP> 
+<BOS> <drama> 54 <SEP> 
+<BOS> <crime fiction> <world cinema> <action/adventure> <drama> <comedy> Miracles <SEP> 
+<BOS> <drama> Transgression <SEP> 
+<BOS> <horror> Blood of Ghastly Horror <SEP> 
+<BOS> <romance film> <action> <comedy> Top Secret! <SEP> 
+<BOS> <action> Dragon Ball Z: Bio-Broly <SEP> 
+<BOS> <thriller> <action/adventure> <world cinema> <action> Le Professionnel <SEP> 
+<BOS> <drama> Paris Trout <SEP> 
+<BOS> <romance film> <drama> <romantic drama> Step Up 3-D <SEP> 
+<BOS> <thriller> 7 Lives <SEP> 
+<BOS> <short film> Amy Stiller's Breast <SEP> 
+<BOS> <drama> <black-and-white> The Crucified Lovers <SEP> 
+<BOS> <action/adventure> <thriller> <drama> <world cinema> Lal Baadshah <SEP> 
+<BOS> <comedy> It's Pat <SEP> 
+<BOS> <short film> Chaitra <SEP> 
+<BOS> <indie> <comedy> <drama> <romantic drama> <romance film> Shag <SEP> 
+<BOS> <crime fiction> <thriller> <adventure> <action/adventure> <drama> <comedy> <action> The Order <SEP> 
+<BOS> <family film> <comedy> Air Bud: Spikes Back <SEP> 
+<BOS> <crime fiction> <thriller> <world cinema> <action/adventure> <drama> <action> Killer <SEP> 
+<BOS> <short film> <comedy> <black-and-white> Almost an Actress <SEP> 
+<BOS> <thriller> <romance film> <drama> The President's Mystery <SEP> 
+<BOS> <short film> <family film> Tabasco Road <SEP> 
+<BOS> <world cinema> <drama> <romantic drama> <romance film> La Reine Margot <SEP> 
+<BOS> <drama> Three Blind Mice <SEP> 
+<BOS> <romance film> <drama> Teri Meri Kahaani <SEP> 
+<BOS> <romantic drama> <romance film> <drama> <world cinema> Yahaan <SEP> 
+<BOS> <romance film> The Five-Year Engagement <SEP> 
+<BOS> <world cinema> <drama> <romance film> Samson <SEP> 
+<BOS> <drama> Merry Christmas, Mr. Lawrence <SEP> 
+<BOS> <drama> Saazish <SEP> 
+<BOS> <comedy> <indie> Splitting Heirs <SEP> 
+<BOS> <drama> La Bamba <SEP> 
+<BOS> <drama> The Dungeon Masters <SEP> 
+<BOS> <comedy> <black-and-white> Those Were the Days <SEP> 
+<BOS> <drama> <world cinema> Adela <SEP> 
+<BOS> <short film> <comedy> Bugged by a Bee <SEP> 
+<BOS> <horror> Attack of the Herbals <SEP> 
+<BOS> <black-and-white> British Intelligence <SEP> 
+<BOS> <adventure> <comedy> Star Wars: Storm in the Glass <SEP> 
+<BOS> <adventure> <action/adventure> <drama> <action> Lawrence of Arabia <SEP> 
+<BOS> <adventure> <comedy> <romance film> <action> <family film> The Princess Bride <SEP> 
+<BOS> <crime fiction> <indie> <comedy> Tiempo de valientes <SEP> 
+<BOS> <crime fiction> <drama> <adventure> <thriller> Joyride <SEP> 
+<BOS> <action> Toss <SEP> 
+<BOS> <horror> The Mangler 2 <SEP> 
+<BOS> <horror> <black-and-white> <drama> Jungle Woman <SEP> 
+<BOS> <drama> New Delhi Times <SEP> 
+<BOS> <drama> <comedy> The Picture Show Man <SEP> 
+<BOS> <short film> <comedy> A Grand Day Out <SEP> 
+<BOS> <comedy> <world cinema> Jokefalls <SEP> 
+<BOS> <thriller> <short film> <action> The Seed <SEP> 
+<BOS> <crime fiction> <thriller> <drama> Lansky <SEP> 
+<BOS> <crime fiction> <drama> <black-and-white> Special Agent <SEP> 
+<BOS> <crime fiction> I stormens öga <SEP> 
+<BOS> <indie> <comedy> The Last Lovecraft: Relic of Cthulhu <SEP> 
+<BOS> <family film> Sufferin' Cats <SEP> 
+<BOS> <short film> Magical Maestro <SEP> 
+<BOS> <comedy> Booty Call <SEP> 
+<BOS> <world cinema> <drama> <comedy> <romantic drama> <romance film> Lage Raho Munna Bhai <SEP> 
+<BOS> <drama> So Well Remembered <SEP> 
+<BOS> <drama> <adventure> Bitter Springs <SEP> 
+<BOS> <comedy> The Tiger Makes Out <SEP> 
+<BOS> <short film> Genie with the Light Pink Fur <SEP> 
+<BOS> <romance film> Kadhalukku Mariyadhai <SEP> 
+<BOS> <thriller> <horror> The Thing <SEP> 
+<BOS> <horror> <indie> The Nest <SEP> 
+<BOS> <family film> <comedy> The Fairly OddParents: Abra-Catastrophe! <SEP> 
+<BOS> <comedy> Qualunquemente <SEP> 
+<BOS> <short film> <indie> <black-and-white> Mandarin Mix-Up <SEP> 
+<BOS> <adventure> <action/adventure> <drama> <romance film> <action> Alexander <SEP> 
+<BOS> <crime fiction> <thriller> <adventure> The Decks Ran Red <SEP> 
+<BOS> <action> Captain Prabhakaran <SEP> 
+<BOS> <adventure> <family film> <action> Star Wars Episode IV: A New Hope <SEP> 
+<BOS> <family film> <drama> <comedy> Zoey 101: Chasing Zoey <SEP> 
+<BOS> <drama> <adventure> Apollo 13 <SEP> 
+<BOS> <thriller> <world cinema> <drama> Oriana <SEP> 
+<BOS> <drama> <black-and-white> Maid of Salem <SEP> 
+<BOS> <romantic drama> <romance film> <drama> I Met My Love Again <SEP> 
+<BOS> <horror> <world cinema> Outcast <SEP> 
+<BOS> <horror> <comedy> The Stuff <SEP> 
+<BOS> <drama> Cromwell <SEP> 
+<BOS> <drama> Akku <SEP> 
+<BOS> <crime fiction> <horror> <comedy> <thriller> Game of Werewolves <SEP> 
+<BOS> <short film> <comedy> <black-and-white> Bored of Education <SEP> 
+<BOS> <drama> Orkut Oru Ormakoot <SEP> 
+<BOS> <adventure> The Bermuda Depths <SEP> 
+<BOS> <thriller> <crime fiction> <black-and-white> <drama> <romantic drama> <romance film> Undercurrent <SEP> 
+<BOS> <romance film> <drama> <black-and-white> America, America <SEP> 
+<BOS> <thriller> <action/adventure> 2012: Supernova <SEP> 
+<BOS> <thriller> <drama> Pacific Heights <SEP> 
+<BOS> <thriller> <drama> Ustanicka ulica <SEP> 
+<BOS> <horror> Omen III: The Final Conflict <SEP> 
+<BOS> <drama> <indie> <black-and-white> Gaehwadang imun <SEP> 
+<BOS> <drama> Casualties of War <SEP> 
+<BOS> <indie> I.K.U. <SEP> 
+<BOS> <comedy> Eat the Rich <SEP> 
+<BOS> <drama> <world cinema> A Wonderful Night in Split <SEP> 
+<BOS> <romance film> <comedy> High Season <SEP> 
+<BOS> <thriller> <action> <horror> Death Machine <SEP> 
+<BOS> <comedy> <family film> The Little Vampire <SEP> 
+<BOS> <adventure> <drama> <comedy> <family film> Babe <SEP> 
+<BOS> <world cinema> <drama> <comedy> <romantic drama> <romance film> Jab We Met <SEP> 
+<BOS> <romance film> <drama> Chinna Mapillai <SEP> 
+<BOS> <action/adventure> <action> Dakota Incident <SEP> 
+<BOS> <drama> Shame <SEP> 
+<BOS> <thriller> <comedy> The Student Teachers <SEP> 
+<BOS> <action> Beneath the Planet of the Apes <SEP> 
+<BOS> <drama> Mayak <SEP> 
+<BOS> <thriller> <adventure> Pier 5, Havana <SEP> 
+<BOS> <drama> Hanna K. <SEP> 
+<BOS> <drama> Praying with Anger <SEP> 
+<BOS> <drama> Reunion <SEP> 
+<BOS> <thriller> <horror> <world cinema> Eden Log <SEP> 
+<BOS> <world cinema> <comedy> A mi madre le gustan las mujeres <SEP> 
+<BOS> <drama> <black-and-white> Desire <SEP> 
+<BOS> <thriller> <horror> <drama> <romance film> Mary Shelley's Frankenstein <SEP> 
+<BOS> <drama> <indie> Stranger Inside <SEP> 
+<BOS> <indie> <comedy> <drama> Igby Goes Down <SEP> 
+<BOS> <thriller> <action/adventure> <action> Shaft in Africa <SEP> 
+<BOS> <adventure> <family film> The Tigger Movie <SEP> 
+<BOS> <comedy> <family film> Mr. Magorium's Wonder Emporium <SEP> 
+<BOS> <adventure> They're a Weird Mob <SEP> 
+<BOS> <comedy> Les Patterson Saves the World <SEP> 
+<BOS> <adventure> <action/adventure> <drama> The Lord of the Rings: The Return of the King <SEP> 
+<BOS> <comedy> Lottovoittaja UKK Turhapuro <SEP> 
+<BOS> <drama> The Caterpillar Wish <SEP> 
+<BOS> <drama> Houdini <SEP> 
+<BOS> <thriller> <drama> Summer Heat <SEP> 
+<BOS> <drama> The Knife That Killed Me <SEP> 
+<BOS> <action> <drama> Garibon Ka Daata <SEP> 
+<BOS> <indie> <action/adventure> <comedy> <family film> Teenage Mutant Ninja Turtles <SEP> 
+<BOS> <indie> <comedy> Beyond the Pole <SEP> 
+<BOS> <drama> Baby <SEP> 
+<BOS> <crime fiction> <drama> <action> <comedy> The Principal <SEP> 
+<BOS> <drama> Rockabye <SEP> 
+<BOS> <action> <black-and-white> King of the Texas Rangers <SEP> 
+<BOS> <thriller> <crime fiction> <drama> Absolute Power <SEP> 
+<BOS> <romance film> Big School-Break <SEP> 
+<BOS> <comedy> These Old Broads <SEP> 
+<BOS> <comedy> <family film> Cow Belles <SEP> 
+<BOS> <horror> The Mummy <SEP> 
+<BOS> <drama> <world cinema> <black-and-white> Sundays and Cybelle <SEP> 
+<BOS> <drama> Wedding Days <SEP> 
+<BOS> <romantic drama> <romance film> <drama> Constellation <SEP> 
+<BOS> <horror> <black-and-white> The Mummy <SEP> 
+<BOS> <romance film> <action> <comedy> Choorian <SEP> 
+<BOS> <horror> Food of the Gods II <SEP> 
+<BOS> <action/adventure> <thriller> <crime fiction> <drama> <world cinema> One Take Only <SEP> 
+<BOS> <crime fiction> <adventure> <action/adventure> <comedy> <action> Plunkett & Macleane <SEP> 
+<BOS> <drama> Ball Don't Lie <SEP> 
+<BOS> <drama> <adventure> Mystery Mansion <SEP> 
+<BOS> <short film> <comedy> No Time for Nuts <SEP> 
+<BOS> <romance film> <comedy> Rockets Galore! <SEP> 
+<BOS> <thriller> <crime fiction> <indie> <action/adventure> <action> <adventure> Joshua Tree <SEP> 
+<BOS> <thriller> <action> <drama> Defiance <SEP> 
+<BOS> <drama> A Letter to Momo <SEP> 
+<BOS> <drama> <world cinema> <black-and-white> Germany Year Zero <SEP> 
+<BOS> <adventure> <action/adventure> <comedy> <action> Gasbags <SEP> 
+<BOS> <comedy> <romance film> Straight-Jacket <SEP> 
+<BOS> <thriller> <crime fiction> <world cinema> To Live and Die in Mongkok <SEP> 
+<BOS> <horror> The Devil's Carnival <SEP> 
+<BOS> <short film> <family film> <comedy> <black-and-white> Two Too Young <SEP> 
+<BOS> <drama> The Greengage Summer <SEP> 
+<BOS> <adventure> <drama> <action> The Time Machine <SEP> 
+<BOS> <comedy> Ah Long Pte Ltd <SEP> 
+<BOS> <thriller> Basha <SEP> 
+<BOS> <short film> Great Guns! <SEP> 
+<BOS> <indie> <world cinema> <drama> <family film> A Shine of Rainbows <SEP> 
+<BOS> <romantic drama> <romance film> <drama> <world cinema> Quo Vadis <SEP> 
+<BOS> <short film> <family film> The Cat and the Mermouse <SEP> 
+<BOS> <thriller> <horror> <drama> <indie> Lightning Bug <SEP> 
+<BOS> <comedy> Sunburn <SEP> 
+<BOS> <action> <drama> Laaj <SEP> 
+<BOS> <drama> Dancing in the Dark <SEP> 
+<BOS> <horror> Uncle Sam <SEP> 
+<BOS> <world cinema> <drama> <comedy> <romantic drama> <romance film> Maine Pyaar Kyun Kiya? <SEP> 
+<BOS> <drama> I Could Go On Singing <SEP> 
+<BOS> <drama> Tarnished Lady <SEP> 
+<BOS> <horror> <black-and-white> The Walking Dead <SEP> 
+<BOS> <drama> Flesh and Blood <SEP> 
+<BOS> <short film> 18000 Dead In Gordon Head <SEP> 
+<BOS> <short film> The Wizard of Oz <SEP> 
+<BOS> <short film> <comedy> Expresso <SEP> 
+<BOS> <indie> <drama> <comedy> <romance film> The Myth of the American Sleepover <SEP> 
+<BOS> <black-and-white> The Golden Stallion <SEP> 
+<BOS> <short film> Ben and Me <SEP> 
+<BOS> <thriller> <world cinema> Anand Aur Anand <SEP> 
+<BOS> <world cinema> <drama> <horror> Frankenstein Conquers the World <SEP> 
+<BOS> <world cinema> <drama> <comedy> Children of the Revolution <SEP> 
+<BOS> <crime fiction> <comedy> A Fine Mess <SEP> 
+<BOS> <family film> Rock-A-Doodle <SEP> 
+<BOS> <crime fiction> <comedy> <action> Hancock <SEP> 
+<BOS> <drama> Brought by the Sea <SEP> 
+<BOS> <drama> <comedy> Khalass <SEP> 
+<BOS> <family film> El Terrible Toreador <SEP> 
+<BOS> <short film> <thriller> <drama> Peekaboo <SEP> 
+<BOS> <comedy> I Killed the Count <SEP> 
+<BOS> <crime fiction> Bheeshmar <SEP> 
+<BOS> <romance film> <action> <drama> Raja Makutam <SEP> 
+<BOS> <short film> <comedy> Jewel of the Sahara <SEP> 
+<BOS> <romance film> <drama> Buddha Mil Gaya <SEP> 
+<BOS> <action/adventure> <action> <drama> <adventure> Island in the Sky <SEP> 
+<BOS> <drama> Kadhal Kondein <SEP> 
+<BOS> <short film> <family film> <comedy> A Star Is Bored <SEP> 
+<BOS> <short film> The Bike <SEP> 
+<BOS> <adventure> <drama> <comedy> <family film> The Wizard <SEP> 
+<BOS> <adventure> <world cinema> <action/adventure> <comedy> <action> The Duel <SEP> 
+<BOS> <world cinema> <drama> <romantic drama> <romance film> I Am Curious (Yellow) <SEP> 
+<BOS> <romantic drama> <drama> <romance film> Bollywood Queen <SEP> 
+<BOS> <thriller> <drama> Outsider <SEP> 
+<BOS> <crime fiction> <thriller> The Hound of London <SEP> 
+<BOS> <romantic drama> <romance film> <drama> <indie> <comedy> Another Year <SEP> 
+<BOS> <comedy> Wake Up, Ron Burgundy: The Lost Movie <SEP> 
+<BOS> <short film> <family film> Scentimental Romeo <SEP> 
+<BOS> <adventure> <family film> The Land Before Time VI: The Secret of Saurus Rock <SEP> 
+<BOS> <drama> Pellichesukundam <SEP> 
+<BOS> <thriller> <action> Killer <SEP> 
+<BOS> <comedy> Is It Fall Yet? <SEP> 
+<BOS> <drama> <comedy> <romance film> Torch Song Trilogy <SEP> 
+<BOS> <comedy> <world cinema> See You After School <SEP> 
+<BOS> <romance film> <comedy> The Butcher's Wife <SEP> 
+<BOS> <crime fiction> <thriller> <indie> <drama> <comedy> The Singing Detective <SEP> 
+<BOS> <thriller> The Butterfly Effect <SEP> 
+<BOS> <action/adventure> <thriller> <action> <comedy> <world cinema> Norwegian Ninja <SEP> 
+<BOS> <drama> Never Forget <SEP> 
+<BOS> <action> <horror> <indie> Underworld <SEP> 
+<BOS> <crime fiction> <drama> Cosh Boy <SEP> 
+<BOS> <drama> Sandakan No. 8 <SEP> 
+<BOS> <drama> An Englishman in New York <SEP> 
+<BOS> <comedy> The Extraordinary Adventures of Mr. West in the Land of the Bolsheviks <SEP> 
+<BOS> <short film> <indie> <comedy> Franky Goes to Hollywood <SEP> 
+<BOS> <action> <horror> The Bunker <SEP> 
+<BOS> <drama> Broken Promises: Taking Emily Back <SEP> 
+<BOS> <thriller> <drama> <world cinema> Gumnaam <SEP> 
+<BOS> <thriller> <crime fiction> <drama> Frequency <SEP> 
+<BOS> <drama> <world cinema> Mon Amour: Shesher Kobita Revisited <SEP> 
+<BOS> <thriller> <horror> <world cinema> The Night of the Hunted <SEP> 
+<BOS> <horror> <world cinema> The Wig <SEP> 
+<BOS> <action> <drama> Against the Wind <SEP> 
+<BOS> <drama> <comedy> <family film> La Guerre des tuques <SEP> 
+<BOS> <romantic drama> <romance film> <drama> <indie> The Fox <SEP> 
+<BOS> <drama> King of the Hill <SEP> 
+<BOS> <drama> <world cinema> Seventeen Years <SEP> 
+<BOS> <horror> Jangan Pandang Belakang <SEP> 
+<BOS> <action/adventure> <thriller> <action> <adventure> The A-Team <SEP> 
+<BOS> <comedy> A Very Harold & Kumar 3D Christmas <SEP> 
+<BOS> <thriller> <drama> Syriana <SEP> 
+<BOS> <action/adventure> <world cinema> Lone Wolf and Cub: Baby Cart to Hades <SEP> 
+<BOS> <drama> Tara Road <SEP> 
+<BOS> <romance film> <comedy> The Ambassador's Daughter <SEP> 
+<BOS> <thriller> <action> Oru CBI Diary Kurippu <SEP> 
+<BOS> <thriller> <crime fiction> <drama> True Crime <SEP> 
+<BOS> <comedy> Schtonk! <SEP> 
+<BOS> <romantic drama> <drama> <romance film> Jane Eyre <SEP> 
+<BOS> <horror> <world cinema> <comedy> <drama> Rubber <SEP> 
+<BOS> <short film> <indie> <black-and-white> <comedy> Pistols for Breakfast <SEP> 
+<BOS> <comedy> Näköradiomiehen ihmeelliset siekailut <SEP> 
+<BOS> <romance film> <action> Casanova <SEP> 
+<BOS> <drama> <comedy> <world cinema> Patiala House <SEP> 
+<BOS> <romance film> <comedy> <black-and-white> Small Town Girl <SEP> 
+<BOS> <indie> <comedy> <action> <adventure> Heavy Traffic <SEP> 
+<BOS> <thriller> <black-and-white> <action> Renaissance <SEP> 
+<BOS> <thriller> <world cinema> <action/adventure> <drama> <romance film> Pukar <SEP> 
+<BOS> <drama> Gifted Hands: The Ben Carson Story <SEP> 
+<BOS> <black-and-white> Adiós muchachos <SEP> 
+<BOS> <thriller> <crime fiction> <horror> <romance film> Hatred of a Minute <SEP> 
+<BOS> <short film> Nowhere to Run <SEP> 
+<BOS> <romance film> Nuvvu Nenu <SEP> 
+<BOS> <world cinema> Five Star <SEP> 
+<BOS> <crime fiction> One Shot Sam <SEP> 
+<BOS> <indie> <world cinema> <black-and-white> <drama> The Aerial <SEP> 
+<BOS> <short film> Shooting Range <SEP> 
+<BOS> <drama> <comedy> <romance film> Gideon <SEP> 
+<BOS> <drama> <horror> <romance film> Phantom of the Opera <SEP> 
+<BOS> <adventure> <comedy> <family film> <action> Ice Age: The Meltdown <SEP> 
+<BOS> <horror> Troublesome Night 11 <SEP> 
+<BOS> <drama> Diverted <SEP> 
+<BOS> <short film> <indie> <black-and-white> Corbett and Courtney Before the Kinetograph <SEP> 
+<BOS> <world cinema> <black-and-white> <drama> <romantic drama> <romance film> Beauty and the Beast <SEP> 
+<BOS> <family film> <drama> Bandhan <SEP> 
+<BOS> <horror> <black-and-white> The Mad Ghoul <SEP> 
+<BOS> <comedy> Encino Man <SEP> 
+<BOS> <action> Tiger Cage 2 <SEP> 
+<BOS> <thriller> <crime fiction> <drama> 44 Inch Chest <SEP> 
+<BOS> <drama> Haze <SEP> 
+<BOS> <drama> <horror> <world cinema> Villa Estrella <SEP> 
+<BOS> <adventure> <action/adventure> <action> Conan the Destroyer <SEP> 
+<BOS> <world cinema> <action/adventure> <drama> <romantic drama> <romance film> Hathi Mere Sathi <SEP> 
+<BOS> <action> DNA <SEP> 
+<BOS> <action/adventure> <drama> <world cinema> Bose <SEP> 
+<BOS> <drama> The Matriarch <SEP> 
+<BOS> <comedy> The Day the Fish Came Out <SEP> 
+<BOS> <short film> <family film> <comedy> The Brave Engineer <SEP> 
+<BOS> <action> <horror> <comedy> Lesbian Vampire Killers <SEP> 
+<BOS> <drama> Revolution <SEP> 
+<BOS> <drama> <black-and-white> Party Wire <SEP> 
+<BOS> <drama> <indie> Emile <SEP> 
+<BOS> <short film> The Navy <SEP> 
+<BOS> <drama> A Separation <SEP> 
+<BOS> <thriller> <action/adventure> <action> The Transporter <SEP> 
+<BOS> <comedy> The War Between Men and Women <SEP> 
+<BOS> <horror> <comedy> Ginger Snaps Back <SEP> 
+<BOS> <action/adventure> <action> Ride the High Country <SEP> 
+<BOS> <drama> <black-and-white> The Bad Sister <SEP> 
+<BOS> <drama> <comedy> <romance film> A Letter to Three Wives <SEP> 
+<BOS> <action/adventure> <action> <comedy> The Dukes of Hazzard: Hazzard in Hollywood! <SEP> 
+<BOS> <short film> A Deer of Nine Colors <SEP> 
+<BOS> <family film> <drama> Mattoral <SEP> 
+<BOS> <horror> Buio Omega <SEP> 
+<BOS> <thriller> <action/adventure> <world cinema> Lootmaar <SEP> 
+<BOS> <short film> <action> Diary of a Camper <SEP> 
+<BOS> <thriller> <crime fiction> <indie> <drama> <romantic drama> <romance film> The Dancer Upstairs <SEP> 
+<BOS> <action> <drama> <adventure> <black-and-white> Flight From Glory <SEP> 
+<BOS> <thriller> <world cinema> This smells bad <SEP> 
+<BOS> <horror> The Slayer <SEP> 
+<BOS> <world cinema> Appula Apparao <SEP> 
+<BOS> <drama> It’s a Long Way to the Sea <SEP> 
+<BOS> <adventure> <world cinema> <drama> <action> She <SEP> 
+<BOS> <comedy> The Parent Trap II <SEP> 
+<BOS> <crime fiction> <drama> One Mysterious Night <SEP> 
+<BOS> <romantic drama> <romance film> <drama> <world cinema> Haan Maine Bhi Pyaar Kiya <SEP> 
+<BOS> <thriller> <horror> A Crack in the Floor <SEP> 
+<BOS> <thriller> <crime fiction> <drama> After Dark, My Sweet <SEP> 
+<BOS> <drama> <comedy> <family film> Booky Makes Her Mark <SEP> 
+<BOS> <horror> Raging Sharks <SEP> 
+<BOS> <action> Savate <SEP> 
+<BOS> <family film> <adventure> The Pirates! Band of Misfits <SEP> 
+<BOS> <romance film> <drama> Al-Ra'i wal Nisaa <SEP> 
+<BOS> <thriller> <crime fiction> <action/adventure> <drama> <action> The Warriors <SEP> 
+<BOS> <romance film> <comedy> Nine Months <SEP> 
+<BOS> <thriller> <horror> <black-and-white> Hush… Hush, Sweet Charlotte <SEP> 
+<BOS> <adventure> <world cinema> <drama> <romantic drama> <romance film> Golden Door <SEP> 
+<BOS> <family film> Grandma's Boy <SEP> 
+<BOS> <world cinema> <drama> <comedy> <romantic drama> <romance film> Shameless <SEP> 
+<BOS> <thriller> <world cinema> <drama> <romantic drama> <romance film> Shikhar <SEP> 
+<BOS> <horror> <world cinema> She Killed in Ecstasy <SEP> 
+<BOS> <horror> HellBent <SEP> 
+<BOS> <short film> Seeing Stars <SEP> 
+<BOS> <thriller> <action> <action/adventure> Cellular <SEP> 
+<BOS> <comedy> <indie> Pretty Persuasion <SEP> 
+<BOS> <thriller> <crime fiction> The Case of the Whitechapel Vampire <SEP> 
+<BOS> <comedy> The Big Mouth <SEP> 
+<BOS> <thriller> <crime fiction> <horror> <indie> <world cinema> <drama> Benny's Video <SEP> 
+<BOS> <black-and-white> Tombstone, the Town Too Tough to Die <SEP> 
+<BOS> <drama> <indie> <black-and-white> Surcos <SEP> 
+<BOS> <drama> A Short Stay in Switzerland <SEP> 
+<BOS> <adventure> <action/adventure> <drama> <comedy> <romance film> <action> Boom Town <SEP> 
+<BOS> <drama> The Green Berets <SEP> 
+<BOS> <action/adventure> <action> The Professionals <SEP> 
+<BOS> <drama> <world cinema> The Keys to the House <SEP> 
+<BOS> <romance film> <comedy> A Business Affair <SEP> 
+<BOS> <horror> The Devil's Chair <SEP> 
+<BOS> <short film> <comedy> <black-and-white> Rhythm and Weep <SEP> 
+<BOS> <world cinema> <black-and-white> <short film> <drama> <indie> Un chien andalou <SEP> 
+<BOS> <thriller> <action/adventure> <action> Solo <SEP> 
+<BOS> <drama> <comedy> Portnoy's Complaint <SEP> 
+<BOS> <action> <drama> Bhairava Dweepam <SEP> 
+<BOS> <thriller> Whispers in the Dark <SEP> 
+<BOS> <romance film> <drama> Barefooted Youth <SEP> 
+<BOS> <short film> Stalk of the Celery <SEP> 
+<BOS> <horror> The Devil's Child <SEP> 
+<BOS> <crime fiction> <world cinema> <action/adventure> <drama> <romantic drama> <romance film> <action> Goddess of Mercy <SEP> 
+<BOS> <crime fiction> <drama> Born Innocent <SEP> 
+<BOS> <crime fiction> <drama> <comedy> Cash and Curry <SEP> 
+<BOS> <thriller> <crime fiction> <drama> Eyes in the Night <SEP> 
+<BOS> <thriller> <action> <drama> Orukkam <SEP> 
+<BOS> <short film> No One Will Play with Me <SEP> 
+<BOS> <adventure> <black-and-white> <action/adventure> <drama> <action> Beau Geste <SEP> 
+<BOS> <drama> <black-and-white> The Red Lanterns <SEP> 
+<BOS> <romantic drama> <drama> A+ Pollux <SEP> 
+<BOS> <horror> <comedy> Feast <SEP> 
+<BOS> <drama> <world cinema> Chanakya <SEP> 
+<BOS> <thriller> <crime fiction> <black-and-white> <drama> Kiss of Death <SEP> 
+<BOS> <crime fiction> <romance film> <drama> <black-and-white> Stolen Holiday <SEP> 
+<BOS> <drama> <indie> <world cinema> El Amateur <SEP> 
+<BOS> <horror> <black-and-white> The Man They Could Not Hang <SEP> 
+<BOS> <drama> <black-and-white> Lizzie <SEP> 
+<BOS> <thriller> <drama> The Russia House <SEP> 
+<BOS> <drama> <world cinema> Tere Mere Sapne <SEP> 
+<BOS> <action/adventure> <comedy> <action> Sgt. Kabukiman N.Y.P.D. <SEP> 
+<BOS> <drama> <indie> The Bridge of San Luis Rey <SEP> 
+<BOS> <indie> <world cinema> <black-and-white> <drama> Der müde Tod <SEP> 
+<BOS> <thriller> <drama> Iron Cross <SEP> 
+<BOS> <black-and-white> <short film> The Battle of Midway <SEP> 
+<BOS> <romance film> <comedy> Must Love Dogs <SEP> 
+<BOS> <horror> <comedy> <adventure> Slave Girls from Beyond Infinity <SEP> 
+<BOS> <family film> <comedy> Super Xuxa <SEP> 
+<BOS> <drama> Take Down <SEP> 
+<BOS> <comedy> The Great White Hype <SEP> 
+<BOS> <thriller> <action/adventure> <action> Blown Away <SEP> 
+<BOS> <short film> <comedy> Beer and Pretzels <SEP> 
+<BOS> <short film> Twinkle, Twinkle, Little Pink <SEP> 
+<BOS> <drama> Velutha Kathreena <SEP> 
+<BOS> <drama> <comedy> The Yellow Rolls-Royce <SEP> 
+<BOS> <romantic drama> <romance film> <drama> Magic Flute Diaries <SEP> 
+<BOS> <action> <adventure> Aayirathil Oruvan <SEP> 
+<BOS> <drama> Outside These Walls <SEP> 
+<BOS> <drama> 'night, Mother <SEP> 
+<BOS> <short film> CLUBSCENE <SEP> 
+<BOS> <drama> Inherit the Wind <SEP> 
+<BOS> <short film> <comedy> <black-and-white> Studio Stoops <SEP> 
+<BOS> <world cinema> <comedy> Benny and Babloo <SEP> 
+<BOS> <thriller> <horror> The Haunted House of Horror <SEP> 
+<BOS> <comedy> <black-and-white> A Night to Remember <SEP> 
+<BOS> <thriller> <comedy> The Truth About Charlie <SEP> 
+<BOS> <comedy> Remember Last Night? <SEP> 
+<BOS> <horror> Zombies <SEP> 
+<BOS> <comedy> The Private Navy of Sgt. O'Farrell <SEP> 
+<BOS> <horror> Don't Look Under the Bed <SEP> 
+<BOS> <world cinema> <drama> <romance film> Ådalen 31 <SEP> 
+<BOS> <drama> Avere vent'anni <SEP> 
+<BOS> <romance film> <drama> While the Billy Boils <SEP> 
+<BOS> <comedy> <world cinema> Kidnapping, Caucasian Style <SEP> 
+<BOS> <drama> Leader <SEP> 
+<BOS> <family film> Ready to Run <SEP> 
+<BOS> <drama> <world cinema> Vanaja <SEP> 
+<BOS> <short film> <family film> It's Got Me Again! <SEP> 
+<BOS> <romance film> <drama> <comedy> Man with a Million <SEP> 
+<BOS> <drama> A Woman's Secret <SEP> 
+<BOS> <thriller> <crime fiction> <drama> <action> Rising Sun <SEP> 
+<BOS> <comedy> A Halfway House Christmas <SEP> 
+<BOS> <romance film> <comedy> The Divorce of Lady X <SEP> 
+<BOS> <horror> The Sick House <SEP> 
+<BOS> <romantic drama> <drama> <world cinema> <black-and-white> <adventure> La Bandera <SEP> 
+<BOS> <crime fiction> <action/adventure> <comedy> <action> Beverly Hills Cop III <SEP> 
+<BOS> <thriller> <crime fiction> <action/adventure> <drama> <action> Inside Man <SEP> 
+<BOS> <drama> <world cinema> Vishwavidhaata <SEP> 
+<BOS> <crime fiction> <drama> Foot Path <SEP> 
+<BOS> <drama> Femme Fatale, Jang Hee-bin <SEP> 
+<BOS> <action> Pilots <SEP> 
+<BOS> <drama> Mariyadhai <SEP> 
+<BOS> <crime fiction> <thriller> <action/adventure> <action> Gone in Sixty Seconds <SEP> 
+<BOS> <crime fiction> <drama> Dead Man Walking <SEP> 
+<BOS> <short film> There's Good Boos To-Night <SEP> 
+<BOS> <romantic drama> <romance film> <drama> <world cinema> Sheesha <SEP> 
+<BOS> <comedy> Noises Off... <SEP> 
+<BOS> <drama> <romantic drama> <romance film> April Love <SEP> 
+<BOS> <action> Marana Mrudangam <SEP> 
+<BOS> <thriller> <action> <drama> <adventure> The Edge <SEP> 
+<BOS> <short film> <world cinema> Garbage Dreams <SEP> 
+<BOS> <drama> Broken Bridges <SEP> 
+<BOS> <adventure> <world cinema> <drama> <family film> Ponyo <SEP> 
+<BOS> <comedy> <indie> Going Overboard <SEP> 
+<BOS> <romance film> <drama> The Great White Hope <SEP> 
+<BOS> <world cinema> <short film> <comedy> Harvie Krumpet <SEP> 
+<BOS> <horror> Cannibal Hookers <SEP> 
+<BOS> <drama> Mother Fish <SEP> 
+<BOS> <drama> Northern Lights <SEP> 
+<BOS> <thriller> <action> <action/adventure> Turbulence <SEP> 
+<BOS> <romance film> <drama> Letters from Three Lovers <SEP> 
+<BOS> <drama> Deewana Tere Naam Ka <SEP> 
+<BOS> <family film> <drama> <comedy> The Barefoot Executive <SEP> 
+<BOS> <short film> <black-and-white> 7:35 de la Mañana <SEP> 
+<BOS> <indie> <comedy> Guy X <SEP> 
+<BOS> <drama> Blue Ridge <SEP> 
+<BOS> <drama> Best of Youth <SEP> 
+<BOS> <short film> <family film> The Daffy Doc <SEP> 
+<BOS> <action/adventure> <action> Navajo Joe <SEP> 
+<BOS> <indie> <drama> <comedy> <romantic drama> <romance film> Adam <SEP> 
+<BOS> <drama> Evidam Swargamanu <SEP> 
+<BOS> <romantic drama> <romance film> <drama> <world cinema> Norwegian Wood <SEP> 
+<BOS> <drama> Attention bandits! <SEP> 
+<BOS> <thriller> <horror> <drama> <romance film> Night of Dark Shadows <SEP> 
+<BOS> <thriller> <black-and-white> <drama> Crack-Up <SEP> 
+<BOS> <romance film> <drama> <comedy> Twelfth Night: Or What You Will <SEP> 
+<BOS> <thriller> <romance film> <indie> Trois <SEP> 
+<BOS> <comedy> Longshot <SEP> 
+<BOS> <horror> Blood Feast <SEP> 
+<BOS> <short film> <comedy> <black-and-white> Pest from the West <SEP> 
+<BOS> <drama> <romance film> Tween Hearts the Movie <SEP> 
+<BOS> <comedy> Little Sister <SEP> 
+<BOS> <action/adventure> Twister <SEP> 
+<BOS> <thriller> <action/adventure> <drama> <action> Source Code <SEP> 
+<BOS> <thriller> <horror> Haunted <SEP> 
+<BOS> <adventure> <action/adventure> <drama> <romance film> <action> The Four Feathers <SEP> 
+<BOS> <romance film> <drama> <comedy> Santosham <SEP> 
+<BOS> <family film> <drama> <comedy> How to Eat Fried Worms <SEP> 
+<BOS> <drama> Malabar Princess <SEP> 
+<BOS> <family film> <action> <drama> <comedy> King Uncle <SEP> 
+<BOS> <action> <drama> Vajram <SEP> 
+<BOS> <black-and-white> <drama> <comedy> <romantic drama> <romance film> Eternally Yours <SEP> 
+<BOS> <comedy> Confessions of a Sexist Pig <SEP> 
+<BOS> <world cinema> <drama> <comedy> <romantic drama> Producing Adults <SEP> 
+<BOS> <thriller> <crime fiction> <black-and-white> <drama> Sherlock Holmes and the Voice of Terror <SEP> 
+<BOS> <drama> Desperate Characters <SEP> 
+<BOS> <romance film> The Leopard Woman <SEP> 
+<BOS> <drama> <romance film> Wilde <SEP> 
+<BOS> <drama> <comedy> <romance film> Coming to America <SEP> 
+<BOS> <indie> <drama> <comedy> <romance film> The Brother from Another Planet <SEP> 
+<BOS> <drama> <black-and-white> Inspiration <SEP> 
+<BOS> <drama> Pokkiri Raja <SEP> 
+<BOS> <horror> <world cinema> Mondo Cane <SEP> 
+<BOS> <thriller> <action> <action/adventure> Dot.Kill <SEP> 
+<BOS> <short film> Boy Meets Dog <SEP> 
+<BOS> <drama> <world cinema> Mirage <SEP> 
+<BOS> <family film> <comedy> <adventure> Spaced Invaders <SEP> 
+<BOS> <thriller> <horror> The Flying Serpent <SEP> 
+<BOS> <romance film> <action> <drama> Kalai Arasi <SEP> 
+<BOS> <comedy> State and Main <SEP> 
+<BOS> <thriller> Guilty as Sin <SEP> 
+<BOS> <horror> Into the Mirror <SEP> 
+<BOS> <drama> <action> <comedy> Gopi Kishan <SEP> 
+<BOS> <drama> Eşrefpaşalılar <SEP> 
+<BOS> <crime fiction> <thriller> <comedy> The Ghost Train <SEP> 
+<BOS> <drama> Mermaids: The Body Found <SEP> 
+<BOS> <drama> Knuckle <SEP> 
+<BOS> <adventure> <short film> <drama> The Super Dimension Fortress Macross II: Lovers, Again <SEP> 
+<BOS> <thriller> <horror> Spliced <SEP> 
