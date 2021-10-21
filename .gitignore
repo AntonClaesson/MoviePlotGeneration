@@ -1,5 +1,6 @@
 # Custom ignores
 movie-plot-generator/
+movie-plot-generation-from-scratch/
 result_models/
 
 # Byte-compiled / optimized / DLL files
